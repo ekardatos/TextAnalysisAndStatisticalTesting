@@ -10,11 +10,11 @@ One-sample T-tests to check whether the means of different linguistic metrics (e
 Two-sample T-tests to compare the means of these metrics between two independent datasets.
 
 
-**Usage**
+**Usage:**
 Load your dataset in CSV format.
 Execute the script to clean and preprocess data.
 Perform the statistical tests to analyze the text metrics.
 Review the outputs for confidence intervals, p-values, and visualizations.
-**Results**
+**Results:**
 Statistical tests confirm or reject the null hypotheses for various text features based on their p-values.
 Visual representations help in understanding the distribution of text features and confidence intervals.
