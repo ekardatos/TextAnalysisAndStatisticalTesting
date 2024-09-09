@@ -2,7 +2,7 @@
 
 This repository contains a Python project focused on statistical analysis of text data. The project involves processing a dataset to calculate various linguistic metrics and performing hypothesis tests to understand the properties of text features.
 
-**Features**
+
 **Data Cleaning:** Removal of irrelevant columns and conversion of string-based numerical data to appropriate formats.
 Descriptive Statistics: Calculation of means, confidence intervals, and visualizations using matplotlib and seaborn.
 
